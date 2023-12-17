@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7f77d474-609b-424e-a0a1-56244b8e5ded" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.6.17/Runtime/Core/CameraState.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.core@10.10.0/Editor/MaterialUpgrader.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2c1c7827dc894353bd32e2d65867a7af564db0/de/fa8a99e6/List`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4fde398772134227852dc037ed8ddb3b18200/89/551b4a68/Rigidbody.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/d95181a5c71a4ad88c81e8fccee6b47113ce00/73/50df92e3/Object.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/d95181a5c71a4ad88c81e8fccee6b47113ce00/77/a6999190/Renderer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/d95181a5c71a4ad88c81e8fccee6b47113ce00/ae/c82182eb/UnityAction`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/d95181a5c71a4ad88c81e8fccee6b47113ce00/be/8327a155/Transform.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/d95181a5c71a4ad88c81e8fccee6b47113ce00/e1/6d18da17/Material.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FyxVmmmq9pxNwR8JvNBnhssZsR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Discover.Launch.Via.Unity&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="UnitTests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2020.3.40f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath C:\UnityProje\ColorsRunners3D -testResults Logs/results.xml -testPlatform EditMode -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="C:\UnityProje\ColorsRunners3D" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f77d474-609b-424e-a0a1-56244b8e5ded" name="Changes" comment="" />
+      <created>1665478152362</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665478152362</updated>
+      <workItem from="1665478157178" duration="1891000" />
+      <workItem from="1665502436243" duration="7182000" />
+      <workItem from="1665652315972" duration="2331000" />
+      <workItem from="1665680139428" duration="1271000" />
+      <workItem from="1665843302740" duration="1847000" />
+      <workItem from="1665990885135" duration="8441000" />
+      <workItem from="1666022142602" duration="3934000" />
+      <workItem from="1666109118090" duration="16124000" />
+      <workItem from="1666185141451" duration="2737000" />
+      <workItem from="1666198033101" duration="5980000" />
+      <workItem from="1666248682300" duration="3551000" />
+      <workItem from="1666342126791" duration="4702000" />
+      <workItem from="1666593563549" duration="16220000" />
+      <workItem from="1666630374343" duration="10959000" />
+      <workItem from="1666676524352" duration="12831000" />
+      <workItem from="1666715877422" duration="10319000" />
+      <workItem from="1666764246115" duration="16535000" />
+      <workItem from="1666805229993" duration="8575000" />
+      <workItem from="1666854115239" duration="12262000" />
+      <workItem from="1666887850291" duration="5135000" />
+      <workItem from="1666940760128" duration="1815000" />
+      <workItem from="1666945815815" duration="11396000" />
+      <workItem from="1666994262124" duration="1035000" />
+      <workItem from="1666995378643" duration="192000" />
+      <workItem from="1667029960866" duration="10072000" />
+      <workItem from="1667118343429" duration="10561000" />
+      <workItem from="1667194570603" duration="19891000" />
+      <workItem from="1667223101256" duration="6342000" />
+      <workItem from="1667287721237" duration="10067000" />
+      <workItem from="1667321647932" duration="5170000" />
+      <workItem from="1667373008312" duration="11671000" />
+      <workItem from="1667394306938" duration="2390000" />
+      <workItem from="1667407704617" duration="7297000" />
+      <workItem from="1667461010713" duration="9883000" />
+      <workItem from="1667486360056" duration="5163000" />
+      <workItem from="1667548366418" duration="13659000" />
+      <workItem from="1667575138806" duration="1795000" />
+      <workItem from="1667669036654" duration="598000" />
+      <workItem from="1667800385658" duration="17966000" />
+      <workItem from="1667836275294" duration="7510000" />
+      <workItem from="1667887026823" duration="10428000" />
+      <workItem from="1667906989001" duration="15831000" />
+      <workItem from="1667979696613" duration="5845000" />
+      <workItem from="1668013107076" duration="4670000" />
+      <workItem from="1668061404571" duration="11699000" />
+      <workItem from="1668096690192" duration="3598000" />
+      <workItem from="1668109284561" duration="2472000" />
+      <workItem from="1668151233031" duration="10181000" />
+      <workItem from="1668246003073" duration="12219000" />
+      <workItem from="1668409064686" duration="13284000" />
+      <workItem from="1668444537838" duration="10503000" />
+      <workItem from="1668501405227" duration="6061000" />
+      <workItem from="1668530327619" duration="2558000" />
+      <workItem from="1668581431620" duration="5717000" />
+      <workItem from="1668615090668" duration="8269000" />
+      <workItem from="1668673877107" duration="11624000" />
+      <workItem from="1668707852640" duration="4506000" />
+      <workItem from="1668788937253" duration="2814000" />
+      <workItem from="1668856408668" duration="9787000" />
+      <workItem from="1668940210244" duration="6326000" />
+      <workItem from="1669013641831" duration="9339000" />
+      <workItem from="1669048416071" duration="1864000" />
+      <workItem from="1669099877909" duration="5954000" />
+      <workItem from="1669140966978" duration="2353000" />
+      <workItem from="1669184550778" duration="25990000" />
+      <workItem from="1669225125755" duration="735000" />
+      <workItem from="1669279667546" duration="16923000" />
+      <workItem from="1669717156310" duration="6253000" />
+      <workItem from="1669745579914" duration="10913000" />
+      <workItem from="1669789023146" duration="15248000" />
+      <workItem from="1669830633689" duration="4481000" />
+      <workItem from="1669878475006" duration="9925000" />
+      <workItem from="1669914752671" duration="10504000" />
+      <workItem from="1669971019059" duration="9783000" />
+      <workItem from="1670004944649" duration="595000" />
+      <workItem from="1670145227619" duration="1894000" />
+      <workItem from="1670165827072" duration="7908000" />
+      <workItem from="1670217862101" duration="6283000" />
+      <workItem from="1670259024321" duration="3538000" />
+      <workItem from="1670308801697" duration="8403000" />
+      <workItem from="1670357245347" duration="1530000" />
+      <workItem from="1670405825134" duration="2695000" />
+      <workItem from="1670433982743" duration="2362000" />
+      <workItem from="1670488097755" duration="1480000" />
+      <workItem from="1670586923177" duration="956000" />
+      <workItem from="1670774712227" duration="1632000" />
+      <workItem from="1670827844637" duration="198000" />
+      <workItem from="1670831352292" duration="800000" />
+      <workItem from="1670875519603" duration="1761000" />
+      <workItem from="1671091121347" duration="604000" />
+      <workItem from="1671186312189" duration="660000" />
+      <workItem from="1671273961550" duration="9000" />
+      <workItem from="1671395188474" duration="1106000" />
+      <workItem from="1671527512673" duration="2432000" />
+      <workItem from="1671551002017" duration="4538000" />
+      <workItem from="1672663063513" duration="95000" />
+      <workItem from="1672681315162" duration="2552000" />
+      <workItem from="1673346229821" duration="1268000" />
+      <workItem from="1673520226076" duration="2374000" />
+      <workItem from="1673624248962" duration="7000" />
+      <workItem from="1673628591135" duration="1337000" />
+      <workItem from="1673881066925" duration="15000" />
+      <workItem from="1673990984595" duration="40000" />
+      <workItem from="1674485927518" duration="1234000" />
+      <workItem from="1675504490666" duration="18000" />
+      <workItem from="1678979167316" duration="2234000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
